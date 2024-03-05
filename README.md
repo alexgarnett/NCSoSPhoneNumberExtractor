@@ -20,7 +20,7 @@ could find the phone number for new businesses and contact them about financing 
 
 First, clone the repo
 ```commandline
-git clone
+git clone https://github.com/alexgarnett/NCSoSPhoneNumberExtractor
 ```
 
 Next, install dependencies
